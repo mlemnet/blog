@@ -11,15 +11,33 @@
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Mar 2025 23:58:37 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 27 Mar 2025 21:22:46 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fixing Pixelated Apps on Hyprland</title>
+      <link>http://localhost:1313/posts/fixing-pixelated-apps-on-hyprland/</link>
+      <pubDate>Thu, 27 Mar 2025 21:22:46 +0100</pubDate>
+      <guid>http://localhost:1313/posts/fixing-pixelated-apps-on-hyprland/</guid>
+      <description>&lt;p&gt;Today I learned that there are two important directories when it comes to launching an app in Linux:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;/usr/share/applications&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;code&gt;~/.local/share/applications&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;When an app you installed appears pixelated, it usually means that the app is not yet fully optimized for Wayland. To fix this, you typically only need to pass the following variables when launching the app:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;--enable-features=UseOzonePlatform,WaylandWindowDecorations --ozone-platform=wayland
+&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;how-to-modify-the-way-apps-start&#34;&gt;How to Modify the Way Apps Start&lt;/h2&gt;
+&lt;p&gt;As previously mentioned, there are two important directories:&lt;/p&gt;</description>
+    </item>
     <item>
       <title>I Don&#39;t Want to Loose My Dotfiles Again...</title>
       <link>http://localhost:1313/posts/i-dont-want-to-loose-my-dotfiles-again/</link>
       <pubDate>Wed, 26 Mar 2025 23:58:37 +0100</pubDate>
       <guid>http://localhost:1313/posts/i-dont-want-to-loose-my-dotfiles-again/</guid>
-      <description>&lt;p&gt;I don&amp;rsquo;t want to loose my dotfiles again&amp;hellip;
-I truly love managing my operating system and apps via dotfiles. Having your configuration changed automatically via an update and being forced to have your UI changed sucks.&lt;/p&gt;
+      <description>&lt;p&gt;I truly love managing my operating system and apps via dotfiles. Having your configuration changed automatically via an update and being forced to have your UI changed sucks.&lt;/p&gt;
 &lt;p&gt;Nowadays, I find it easier to use dotfiles than GUI apps, which often lack nice-to-have settings and usually don&amp;rsquo;t look great on Arch (btw).&lt;/p&gt;
 &lt;p&gt;Though managing those files can be scary, let&amp;rsquo;s do it the easy and correct way with GitHub and GNU Stow. :3&lt;/p&gt;</description>
     </item>
