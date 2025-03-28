@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Kibby blog</title>
-    <link>http://localhost:34659/</link>
+    <link>http://localhost:41695/</link>
     <description>Recent content on Kibby blog</description>
     <image>
       <title>Kibby blog</title>
-      <url>http://localhost:34659/me.jpeg</url>
-      <link>http://localhost:34659/me.jpeg</link>
+      <url>http://localhost:41695/me.jpeg</url>
+      <link>http://localhost:41695/me.jpeg</link>
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 27 Mar 2025 21:22:46 +0100</lastBuildDate>
-    <atom:link href="http://localhost:34659/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:41695/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fixing Pixelated Apps on Hyprland</title>
-      <link>http://localhost:34659/posts/fixing-pixelated-apps-on-hyprland/</link>
+      <link>http://localhost:41695/posts/fixing-pixelated-apps-on-hyprland/</link>
       <pubDate>Thu, 27 Mar 2025 21:22:46 +0100</pubDate>
-      <guid>http://localhost:34659/posts/fixing-pixelated-apps-on-hyprland/</guid>
+      <guid>http://localhost:41695/posts/fixing-pixelated-apps-on-hyprland/</guid>
       <description>&lt;p&gt;Today I learned that there are two important directories when it comes to launching an app in Linux:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -34,28 +34,28 @@
     </item>
     <item>
       <title>I Don&#39;t Want to Loose My Dotfiles Again...</title>
-      <link>http://localhost:34659/posts/i-dont-want-to-loose-my-dotfiles-again/</link>
+      <link>http://localhost:41695/posts/i-dont-want-to-loose-my-dotfiles-again/</link>
       <pubDate>Wed, 26 Mar 2025 23:58:37 +0100</pubDate>
-      <guid>http://localhost:34659/posts/i-dont-want-to-loose-my-dotfiles-again/</guid>
+      <guid>http://localhost:41695/posts/i-dont-want-to-loose-my-dotfiles-again/</guid>
       <description>&lt;p&gt;I truly love managing my operating system and apps via dotfiles. Having your configuration changed automatically via an update and being forced to have your UI changed sucks.&lt;/p&gt;
 &lt;p&gt;Nowadays, I find it easier to use dotfiles than GUI apps, which often lack nice-to-have settings and usually don&amp;rsquo;t look great on Arch (btw).&lt;/p&gt;
 &lt;p&gt;Though managing those files can be scary, let&amp;rsquo;s do it the easy and correct way with GitHub and GNU Stow. :3&lt;/p&gt;</description>
     </item>
     <item>
       <title>How to Deploy Hugo With Cloudflare Pages</title>
-      <link>http://localhost:34659/posts/how-to-deploy-hugo-with-cloudflare-pages/</link>
+      <link>http://localhost:41695/posts/how-to-deploy-hugo-with-cloudflare-pages/</link>
       <pubDate>Mon, 17 Feb 2025 17:45:31 +0100</pubDate>
-      <guid>http://localhost:34659/posts/how-to-deploy-hugo-with-cloudflare-pages/</guid>
+      <guid>http://localhost:41695/posts/how-to-deploy-hugo-with-cloudflare-pages/</guid>
       <description>&lt;p&gt;According to wise sages (aka the internet), the best way to learn something is by teaching it to others. So, why not embark on the noble quest of starting a blog today?&lt;/p&gt;
 &lt;h3 id=&#34;whats-a-static-site-generator&#34;&gt;What&amp;rsquo;s a Static Site Generator?&lt;/h3&gt;
 &lt;p&gt;In a world of bloated websites and laggy load times, Static Site Generators (SSGs) stand as the knights in shining armor. They create a site all at once and then deliver it in a flash—no lag, just pure performance.&lt;/p&gt;</description>
     </item>
     <item>
       <title>My Arch(btw) Experience</title>
-      <link>http://localhost:34659/posts/my-archbtw-experience/</link>
+      <link>http://localhost:41695/posts/my-archbtw-experience/</link>
       <pubDate>Sun, 16 Feb 2025 22:11:12 +0100</pubDate>
-      <guid>http://localhost:34659/posts/my-archbtw-experience/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:34659/posts/my-archbtw-experience/images/archcat.jpg&#34;&gt;
+      <guid>http://localhost:41695/posts/my-archbtw-experience/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;image&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:41695/posts/my-archbtw-experience/images/archcat.jpg&#34;&gt;
 So, I decided to try running Arch Linux with a Hyprland config called &lt;a href=&#34;https://github.com/Hyde-project/hyde&#34;&gt;HyDE&lt;/a&gt;. It was a great experience, but, of course, it introduced some unnecessary bloat. Could I have just read through the documentation and removed the extra components? Sure. Am I going to rice it all by myself? Naturally!&lt;/p&gt;
 &lt;p&gt;My goal for switching to Arch Linux is to get a deeper understanding of Linux system components. I appreciate projects like HyDE, but I see them as tools for people who already understand the system and just want to get to work faster. Right now, I’m still learning how Arch and Wayland work, so it’s much more important for me to gather knowledge rather than just using pre-built templates that I won’t even read.&lt;/p&gt;</description>
     </item>

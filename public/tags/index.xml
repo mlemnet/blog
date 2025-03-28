@@ -2,64 +2,64 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Kibby blog</title>
-    <link>http://localhost:34659/tags/</link>
+    <link>http://localhost:41695/tags/</link>
     <description>Recent content in Tags on Kibby blog</description>
     <image>
       <title>Kibby blog</title>
-      <url>http://localhost:34659/me.jpeg</url>
-      <link>http://localhost:34659/me.jpeg</link>
+      <url>http://localhost:41695/me.jpeg</url>
+      <link>http://localhost:41695/me.jpeg</link>
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 27 Mar 2025 21:22:46 +0100</lastBuildDate>
-    <atom:link href="http://localhost:34659/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:41695/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hyprland</title>
-      <link>http://localhost:34659/tags/hyprland/</link>
+      <link>http://localhost:41695/tags/hyprland/</link>
       <pubDate>Thu, 27 Mar 2025 21:22:46 +0100</pubDate>
-      <guid>http://localhost:34659/tags/hyprland/</guid>
+      <guid>http://localhost:41695/tags/hyprland/</guid>
       <description></description>
     </item>
     <item>
       <title>Wayland</title>
-      <link>http://localhost:34659/tags/wayland/</link>
+      <link>http://localhost:41695/tags/wayland/</link>
       <pubDate>Thu, 27 Mar 2025 21:22:46 +0100</pubDate>
-      <guid>http://localhost:34659/tags/wayland/</guid>
+      <guid>http://localhost:41695/tags/wayland/</guid>
       <description></description>
     </item>
     <item>
       <title>Linux</title>
-      <link>http://localhost:34659/tags/linux/</link>
+      <link>http://localhost:41695/tags/linux/</link>
       <pubDate>Wed, 26 Mar 2025 23:58:37 +0100</pubDate>
-      <guid>http://localhost:34659/tags/linux/</guid>
+      <guid>http://localhost:41695/tags/linux/</guid>
       <description></description>
     </item>
     <item>
       <title>Stow</title>
-      <link>http://localhost:34659/tags/stow/</link>
+      <link>http://localhost:41695/tags/stow/</link>
       <pubDate>Wed, 26 Mar 2025 23:58:37 +0100</pubDate>
-      <guid>http://localhost:34659/tags/stow/</guid>
+      <guid>http://localhost:41695/tags/stow/</guid>
       <description></description>
     </item>
     <item>
       <title>Cloudflare</title>
-      <link>http://localhost:34659/tags/cloudflare/</link>
+      <link>http://localhost:41695/tags/cloudflare/</link>
       <pubDate>Mon, 17 Feb 2025 17:45:31 +0100</pubDate>
-      <guid>http://localhost:34659/tags/cloudflare/</guid>
+      <guid>http://localhost:41695/tags/cloudflare/</guid>
       <description></description>
     </item>
     <item>
       <title>Hugo</title>
-      <link>http://localhost:34659/tags/hugo/</link>
+      <link>http://localhost:41695/tags/hugo/</link>
       <pubDate>Mon, 17 Feb 2025 17:45:31 +0100</pubDate>
-      <guid>http://localhost:34659/tags/hugo/</guid>
+      <guid>http://localhost:41695/tags/hugo/</guid>
       <description></description>
     </item>
     <item>
       <title>Arch</title>
-      <link>http://localhost:34659/tags/arch/</link>
+      <link>http://localhost:41695/tags/arch/</link>
       <pubDate>Sun, 16 Feb 2025 22:11:12 +0100</pubDate>
-      <guid>http://localhost:34659/tags/arch/</guid>
+      <guid>http://localhost:41695/tags/arch/</guid>
       <description></description>
     </item>
   </channel>

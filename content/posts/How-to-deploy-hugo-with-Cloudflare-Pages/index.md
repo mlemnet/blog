@@ -3,6 +3,7 @@ date: '2025-02-17T17:45:31+01:00'
 draft: false
 title: 'How to Deploy Hugo With Cloudflare Pages'
 tags: ["cloudflare", "hugo"]
+categories: ["DevOps"]
 ---
 According to wise sages (aka the internet), the best way to learn something is by teaching it to others. So, why not embark on the noble quest of starting a blog today?
 
