@@ -2,6 +2,7 @@
 date: '2025-03-26T23:58:37+01:00'
 draft: false
 title: "I Don't Want to Loose My Dotfiles Again..."
+tags: ["linux", "stow"]
 ---
 
 I truly love managing my operating system and apps via dotfiles. Having your configuration changed automatically via an update and being forced to have your UI changed sucks.

@@ -2,6 +2,7 @@
 date: '2025-03-27T21:22:46+01:00'
 draft: false
 title: 'Fixing Pixelated Apps on Hyprland'
+tags: ["wayland", "hyprland"]
 ---
 Today I learned that there are two important directories when it comes to launching an app in Linux:
 
