@@ -77,5 +77,5 @@ Now you’re ready to explore the vast world of static site generators and embra
 **Behold, cat!**
 
 *A sip of coffee is but a small kindnenss.*
-[Support me on Ko-fi! :3](https://ko-fi.com/mlem_dev)
+[Support me on Ko-fi! :3](https://ko-fi.com/mlemnet)
 [![image](images/pierogi-journey.JPG)](https://ko-fi.com/mlem_dev)

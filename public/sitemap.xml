@@ -2,55 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:41695/posts/fixing-pixelated-apps-on-hyprland/</loc>
+    <loc>https://kibbyblog.pages.dev/posts/fixing-pixelated-apps-on-hyprland/</loc>
     <lastmod>2025-03-27T21:22:46+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:41695/tags/hyprland/</loc>
+    <loc>https://kibbyblog.pages.dev/tags/hyprland/</loc>
     <lastmod>2025-03-27T21:22:46+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:41695/</loc>
+    <loc>https://kibbyblog.pages.dev/</loc>
     <lastmod>2025-03-27T21:22:46+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:41695/posts/</loc>
+    <loc>https://kibbyblog.pages.dev/posts/</loc>
     <lastmod>2025-03-27T21:22:46+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:41695/tags/</loc>
+    <loc>https://kibbyblog.pages.dev/tags/</loc>
     <lastmod>2025-03-27T21:22:46+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:41695/tags/wayland/</loc>
+    <loc>https://kibbyblog.pages.dev/tags/wayland/</loc>
     <lastmod>2025-03-27T21:22:46+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:41695/categories/</loc>
+    <loc>https://kibbyblog.pages.dev/categories/</loc>
     <lastmod>2025-03-26T23:58:37+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:41695/posts/i-dont-want-to-loose-my-dotfiles-again/</loc>
+    <loc>https://kibbyblog.pages.dev/posts/i-dont-want-to-loose-my-dotfiles-again/</loc>
     <lastmod>2025-03-26T23:58:37+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:41695/categories/linux/</loc>
+    <loc>https://kibbyblog.pages.dev/categories/linux/</loc>
     <lastmod>2025-03-26T23:58:37+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:41695/tags/linux/</loc>
+    <loc>https://kibbyblog.pages.dev/tags/linux/</loc>
     <lastmod>2025-03-26T23:58:37+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:41695/tags/stow/</loc>
+    <loc>https://kibbyblog.pages.dev/tags/stow/</loc>
     <lastmod>2025-03-26T23:58:37+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:41695/tags/cloudflare/</loc>
+    <loc>https://kibbyblog.pages.dev/tags/cloudflare/</loc>
     <lastmod>2025-02-17T17:45:31+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:41695/categories/devops/</loc>
+    <loc>https://kibbyblog.pages.dev/categories/devops/</loc>
     <lastmod>2025-02-17T17:45:31+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:41695/posts/how-to-deploy-hugo-with-cloudflare-pages/</loc>
+    <loc>https://kibbyblog.pages.dev/posts/how-to-deploy-hugo-with-cloudflare-pages/</loc>
     <lastmod>2025-02-17T17:45:31+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:41695/tags/hugo/</loc>
+    <loc>https://kibbyblog.pages.dev/tags/hugo/</loc>
     <lastmod>2025-02-17T17:45:31+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:41695/tags/arch/</loc>
+    <loc>https://kibbyblog.pages.dev/tags/arch/</loc>
     <lastmod>2025-02-16T22:11:12+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:41695/posts/my-archbtw-experience/</loc>
+    <loc>https://kibbyblog.pages.dev/posts/my-archbtw-experience/</loc>
     <lastmod>2025-02-16T22:11:12+01:00</lastmod>
   </url>
 </urlset>

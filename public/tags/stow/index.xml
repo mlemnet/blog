@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stow on Kibby blog</title>
-    <link>http://localhost:41695/tags/stow/</link>
+    <link>https://kibbyblog.pages.dev/tags/stow/</link>
     <description>Recent content in Stow on Kibby blog</description>
-    <image>
-      <title>Kibby blog</title>
-      <url>http://localhost:41695/me.jpeg</url>
-      <link>http://localhost:41695/me.jpeg</link>
-    </image>
-    <generator>Hugo -- 0.145.0</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 26 Mar 2025 23:58:37 +0100</lastBuildDate>
-    <atom:link href="http://localhost:41695/tags/stow/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kibbyblog.pages.dev/tags/stow/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>I Don&#39;t Want to Loose My Dotfiles Again...</title>
-      <link>http://localhost:41695/posts/i-dont-want-to-loose-my-dotfiles-again/</link>
+      <link>https://kibbyblog.pages.dev/posts/i-dont-want-to-loose-my-dotfiles-again/</link>
       <pubDate>Wed, 26 Mar 2025 23:58:37 +0100</pubDate>
-      <guid>http://localhost:41695/posts/i-dont-want-to-loose-my-dotfiles-again/</guid>
-      <description>&lt;p&gt;I truly love managing my operating system and apps via dotfiles. Having your configuration changed automatically via an update and being forced to have your UI changed sucks.&lt;/p&gt;
-&lt;p&gt;Nowadays, I find it easier to use dotfiles than GUI apps, which often lack nice-to-have settings and usually don&amp;rsquo;t look great on Arch (btw).&lt;/p&gt;
-&lt;p&gt;Though managing those files can be scary, let&amp;rsquo;s do it the easy and correct way with GitHub and GNU Stow. :3&lt;/p&gt;</description>
+      <guid>https://kibbyblog.pages.dev/posts/i-dont-want-to-loose-my-dotfiles-again/</guid>
+      <description>&lt;p&gt;I truly love managing my operating system and apps via dotfiles. Having your configuration changed automatically via an update and being forced to have your UI changed sucks.&lt;/p&gt;&#xA;&lt;p&gt;Nowadays, I find it easier to use dotfiles than GUI apps, which often lack nice-to-have settings and usually don&amp;rsquo;t look great on Arch (btw).&lt;/p&gt;&#xA;&lt;p&gt;Though managing those files can be scary, let&amp;rsquo;s do it the easy and correct way with GitHub and GNU Stow. :3&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
