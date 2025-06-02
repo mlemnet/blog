@@ -70,4 +70,4 @@ I like to move only the necessary directories and files. It keeps the structure 
 I hope this short post was useful to you. If you need any help or want to share your thoughts, you can reach me on my socials! :3
 
 
-A sip of coffee is but a small kindnenss~  [Support me on Ko-fi! :3](https://ko-fi.com/mlem_dev)
+A sip of coffee is but a small kindnenss~  [Support me on Ko-fi! :3](https://ko-fi.com/mlemnet)
