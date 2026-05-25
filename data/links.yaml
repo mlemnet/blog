@@ -1,0 +1,14 @@
+socials:
+  github:
+    url: "https://github.com/karolsykala"
+  kofi:
+    url: "https://ko-fi.com/meowops"
+    title: "Ko-Fi"
+  twitter:
+    url: "https://x.com/purraform"
+    title: "Twitter"
+
+support:
+  message: "A sip of coffee is but a small kindness."
+  cta: "Support me on Ko-fi!"
+  icon: "kofi"

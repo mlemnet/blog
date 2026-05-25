@@ -1,0 +1,36 @@
+<style>
+.support-plug {
+    margin-top: 2rem;
+    padding: 1.5rem;
+    border: 1px dashed var(--hl);
+    border-radius: 10px;
+    text-align: center;
+}
+.support-plug p {
+    margin: 0 0 0.5rem;
+    font-size: 0.95rem;
+    color: var(--secondary);
+}
+.support-plug a {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    padding: 0.5rem 1rem;
+    border-radius: 8px;
+    background: #665c41;
+    color: var(--content);
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 0.95rem;
+}
+.support-plug a:hover {
+    opacity: 0.85;
+}
+</style>
+<div class="support-plug">
+    <p>{{- with site.Data.links.support.message }}{{ . }}{{ end -}}</p>
+    <a href="{{ hugo.Data.links.socials.kofi.url | safeURL }}" target="_blank" rel="noopener noreferrer">
+        {{ partial "svg.html" (dict "name" (hugo.Data.links.support.icon | default "kofi")) }}
+        {{- with site.Data.links.support.cta }}{{ . }}{{ end -}}
+    </a>
+</div>

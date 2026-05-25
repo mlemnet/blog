@@ -68,6 +68,3 @@ I like to move only the necessary directories and files. It keeps the structure 
 7. Now it's all about your Git skills. Commit and push the files you want to store securely. You don't have to commit everything inside your .config directory. I just picked five or so directories that contain my custom configs—the rest can be obliterated for all I care.
 
 I hope this short post was useful to you. If you need any help or want to share your thoughts, you can reach me on my socials! :3
-
-
-A sip of coffee is but a small kindnenss~  [Support me on Ko-fi! :3](https://ko-fi.com/mlemnet)

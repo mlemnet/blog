@@ -1,0 +1,8 @@
+<div class="social-icons" {{ with .align}}align="{{.}}" {{- end }}>
+    {{- range $name, $data := hugo.Data.links.socials }}
+    <a href="{{ trim $data.url " " | safeURL }}" target="_blank" rel="noopener noreferrer me"
+        title="{{ ($data.title | default $name) | title }}">
+        {{ partial "svg.html" (dict "name" $name) }}
+    </a>
+    {{- end }}
+</div>

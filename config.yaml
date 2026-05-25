@@ -1,5 +1,5 @@
 baseURL: https://kibbyblog.pages.dev
-languageCode: en-us
+locale: en-us
 title: Kibby blog
 theme: ["PaperMod"]
 
@@ -17,7 +17,7 @@ params:
   title: Kibby Blog
   description: "A techblog sharing my nerdy journeys, with sprinkle of cats and FromSoftware love."
   keywords: [Homelab, Blog, Portfolio, PaperMod]
-  author: mlem_dev
+  author: Mlem
   images: ["me.jpeg"]
   DateFormat: "January 2, 2006"
   defaultTheme: dark
@@ -73,18 +73,6 @@ params:
     Title: "Hi :3"
     Content: Welcome to my happy place, where I share my ideas and cat pictures :3
 
-  socialIcons:
-    - name: github
-      url: "https://github.com/karolsykala"
-    - name: telegram
-      url: "https://t.me/mlemlon"
-    - name: KoFi
-      title: Buy me a Ko-Fi :)
-      url: "https://ko-fi.com/mlem_dev"
-    - name: twitter
-      title: Twitter
-      url: "https://x.com/mlem_dev"
-
   analytics:
     google:
       SiteVerificationTag: "XYZabc"
@@ -99,7 +87,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/karolsykala/kibbyblog/blob/master/content"
+    URL: "https://github.com/mlemnet/blog/blob/master/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
@@ -122,7 +110,7 @@ menu:
       weight: 10
     - identifier: projects
       name: projects
-      url: https://github.com/karolsykala
+      url: https://github.com/mlemnet
     - identifier: tags
       name: tags
       url: /tags/

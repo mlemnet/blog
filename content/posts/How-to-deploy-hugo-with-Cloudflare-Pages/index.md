@@ -70,12 +70,4 @@ And voilà—your website is now live! Every time you push to the master branch,
 If you run into any issues along the way, don’t panic. Check the build logs for all the clues you need to debug any CI/CD problems. 
 ![image](images/cf-pages6.png)
 
----
 
-Now you’re ready to explore the vast world of static site generators and embrace your role as a blog creator. May your markdown be clean, your deployments swift, and may you never get stuck in an endless loop of errors (unless it's a fun one) :3
-
-**Behold, cat!**
-
-*A sip of coffee is but a small kindnenss.*
-[Support me on Ko-fi! :3](https://ko-fi.com/mlemnet)
-[![image](images/pierogi-journey.JPG)](https://ko-fi.com/mlem_dev)

@@ -53,4 +53,4 @@ Name=Discord uwu
 If the app launcher displays "Discord uwu," I know my edited `.desktop` file is being used.
 ![wofi discord example](./wofi-example.png)
 
-A sip of coffee is but a small kindnenss. [Support me on Ko-fi!](https://ko-fi.com/mlemnet) :3
+
